@@ -1,0 +1,9 @@
+!backend/
+!backend/**
+!frontend/
+!frontend/**
+!scripts/
+!scripts/**
+!docker-compose.yml
+!.gitignore
+

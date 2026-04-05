@@ -1,0 +1,77 @@
+{
+  "source": "https://en.wikipedia.org/wiki/Current_tennis_rankings",
+  "ranking_date": "23 February 2026",
+  "scraped_at": "2026-02-26T16:34:22.742323Z",
+  "top10": [
+    {
+      "rank": 1,
+      "player": "Carlos Alcaraz",
+      "country": "ESP",
+      "points": 13550,
+      "move": 0
+    },
+    {
+      "rank": 2,
+      "player": "Jannik Sinner",
+      "country": "ITA",
+      "points": 10400,
+      "move": 0
+    },
+    {
+      "rank": 3,
+      "player": "Novak Djokovic",
+      "country": "SRB",
+      "points": 5280,
+      "move": 0
+    },
+    {
+      "rank": 4,
+      "player": "Alexander Zverev",
+      "country": "GER",
+      "points": 4555,
+      "move": 0
+    },
+    {
+      "rank": 5,
+      "player": "Lorenzo Musetti",
+      "country": "ITA",
+      "points": 4405,
+      "move": 0
+    },
+    {
+      "rank": 6,
+      "player": "Alex de Minaur",
+      "country": "AUS",
+      "points": 4235,
+      "move": 0
+    },
+    {
+      "rank": 7,
+      "player": "Taylor Fritz",
+      "country": "USA",
+      "points": 4220,
+      "move": 1
+    },
+    {
+      "rank": 8,
+      "player": "Félix Auger-Aliassime",
+      "country": "CAN",
+      "points": 4080,
+      "move": 1
+    },
+    {
+      "rank": 9,
+      "player": "Ben Shelton",
+      "country": "USA",
+      "points": 4050,
+      "move": 0
+    },
+    {
+      "rank": 10,
+      "player": "Alexander Bublik",
+      "country": "KAZ",
+      "points": 3405,
+      "move": 0
+    }
+  ]
+}

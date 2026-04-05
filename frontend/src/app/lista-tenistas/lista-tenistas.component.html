@@ -1,0 +1,10 @@
+<h1>Top 10 Tenistas ATP</h1>
+
+<div class="contenedor">
+  <div class="card" *ngFor="let tenista of tenistas">
+    <h2>#{{ tenista.ranking }} - {{ tenista.nombre }}</h2>
+    <p><strong>País:</strong> {{ tenista.pais }}</p>
+    <p><strong>Puntos:</strong> {{ tenista.puntos }}</p>
+    <p><strong>Movimiento:</strong> {{ tenista.movimiento }}</p>
+  </div>
+</div>

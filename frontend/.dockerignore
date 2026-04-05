@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.angular/
+coverage/
+
+# IDE / OS noise
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+Desktop.ini
